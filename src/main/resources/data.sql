@@ -1,0 +1,2 @@
+insert into flight_details values ('F001','Hyderabad','Delhi','Infy Go',999.99,sysdate,10,sysdate,sysdate);
+insert into flight_details values ('F002','Delhi','Hyderabad','Infy Go',999.99,sysdate,10,sysdate,sysdate);
